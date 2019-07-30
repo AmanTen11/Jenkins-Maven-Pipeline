@@ -12,9 +12,9 @@
   
   <properties>
     <sonar.login>admin</sonar.login>
-    <!--<sonar.password>root</sonar.password>-->
-	<sonar.password>root</sonar.password>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <sonar.password>root</sonar.password>
+	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	<!--<sonar.junit.reportPaths>reports/surefire-reports</sonar.junit.reportPaths>-->
   </properties>
   
   <dependencies>
