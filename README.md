@@ -1,2 +1,5 @@
 # Jenkins-Maven-Pipeline
-Project build with Jenkins using Windows Slave agent   
+Java Maven Project 
+
+## Share Library
+Using Jenkins Shared Library to build and test the code   

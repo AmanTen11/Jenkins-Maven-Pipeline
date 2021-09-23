@@ -1,4 +1,4 @@
-package com.siemens.app;
+package com.xyz.app;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
